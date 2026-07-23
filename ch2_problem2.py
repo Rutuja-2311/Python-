@@ -1,3 +1,5 @@
+# Write a python program to find the reminder when a number is divided by another number using python.
+
 a = 34
 
 b = 5
