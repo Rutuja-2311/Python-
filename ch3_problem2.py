@@ -1,3 +1,5 @@
+# write a program to fill in a letter template with name and date
+
 letter = ''' Dear <|NAME|>,
         You are selected! 
         <|DATE|> '''
