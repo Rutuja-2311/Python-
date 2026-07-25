@@ -1,3 +1,6 @@
+# write a program to accept marks of 6 students and display them in sorted manner.
+
+
 marks = []
 
 f1 = int(input("Enter marks name: "))
