@@ -7,4 +7,8 @@ marks = {
 
 # print(marks.items())
 # print(marks.keys())
-print(marks.values())
+# print(marks.values())
+# marks.update({"Harry": 99, "Renuka": 79})
+# print(marks)
+print(marks.get("Harry2")) # prints none
+print(marks["Harry2"]) # Returns an error
