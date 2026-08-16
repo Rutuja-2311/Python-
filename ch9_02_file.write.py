@@ -1,6 +1,6 @@
 st = "Hey, you are amazing" 
 
-f = open("myfile.txt", "w")
+f = open("ch9_myfile.txt", "w")
 
 f.write(st)
 
