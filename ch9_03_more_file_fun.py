@@ -1,4 +1,4 @@
-f = open("file.txt")
+f = open("ch9_file.txt")
 
 # lines = f.readlines()
 # print(lines, type(lines))
